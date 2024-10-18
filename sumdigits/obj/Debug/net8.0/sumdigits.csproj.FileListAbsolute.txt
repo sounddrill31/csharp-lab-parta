@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Downloads\Csharp\sumdigits\bin\Debug\net8.0\sumdigits.exe
+C:\Users\Lenovo\Downloads\Csharp\sumdigits\bin\Debug\net8.0\sumdigits.deps.json
+C:\Users\Lenovo\Downloads\Csharp\sumdigits\bin\Debug\net8.0\sumdigits.runtimeconfig.json
+C:\Users\Lenovo\Downloads\Csharp\sumdigits\bin\Debug\net8.0\sumdigits.dll
+C:\Users\Lenovo\Downloads\Csharp\sumdigits\bin\Debug\net8.0\sumdigits.pdb
+C:\Users\Lenovo\Downloads\Csharp\sumdigits\obj\Debug\net8.0\sumdigits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Downloads\Csharp\sumdigits\obj\Debug\net8.0\sumdigits.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Downloads\Csharp\sumdigits\obj\Debug\net8.0\sumdigits.AssemblyInfo.cs
+C:\Users\Lenovo\Downloads\Csharp\sumdigits\obj\Debug\net8.0\sumdigits.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\Csharp\sumdigits\obj\Debug\net8.0\sumdigits.dll
+C:\Users\Lenovo\Downloads\Csharp\sumdigits\obj\Debug\net8.0\refint\sumdigits.dll
+C:\Users\Lenovo\Downloads\Csharp\sumdigits\obj\Debug\net8.0\sumdigits.pdb
+C:\Users\Lenovo\Downloads\Csharp\sumdigits\obj\Debug\net8.0\sumdigits.genruntimeconfig.cache
+C:\Users\Lenovo\Downloads\Csharp\sumdigits\obj\Debug\net8.0\ref\sumdigits.dll

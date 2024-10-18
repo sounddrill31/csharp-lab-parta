@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Downloads\Csharp\fact\bin\Debug\net8.0\fact.exe
+C:\Users\Lenovo\Downloads\Csharp\fact\bin\Debug\net8.0\fact.deps.json
+C:\Users\Lenovo\Downloads\Csharp\fact\bin\Debug\net8.0\fact.runtimeconfig.json
+C:\Users\Lenovo\Downloads\Csharp\fact\bin\Debug\net8.0\fact.dll
+C:\Users\Lenovo\Downloads\Csharp\fact\bin\Debug\net8.0\fact.pdb
+C:\Users\Lenovo\Downloads\Csharp\fact\obj\Debug\net8.0\fact.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Downloads\Csharp\fact\obj\Debug\net8.0\fact.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Downloads\Csharp\fact\obj\Debug\net8.0\fact.AssemblyInfo.cs
+C:\Users\Lenovo\Downloads\Csharp\fact\obj\Debug\net8.0\fact.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\Csharp\fact\obj\Debug\net8.0\fact.dll
+C:\Users\Lenovo\Downloads\Csharp\fact\obj\Debug\net8.0\refint\fact.dll
+C:\Users\Lenovo\Downloads\Csharp\fact\obj\Debug\net8.0\fact.pdb
+C:\Users\Lenovo\Downloads\Csharp\fact\obj\Debug\net8.0\fact.genruntimeconfig.cache
+C:\Users\Lenovo\Downloads\Csharp\fact\obj\Debug\net8.0\ref\fact.dll

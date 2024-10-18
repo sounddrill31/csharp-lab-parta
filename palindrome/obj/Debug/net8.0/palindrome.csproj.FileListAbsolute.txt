@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Downloads\Csharp\palindrome\bin\Debug\net8.0\palindrome.exe
+C:\Users\Lenovo\Downloads\Csharp\palindrome\bin\Debug\net8.0\palindrome.deps.json
+C:\Users\Lenovo\Downloads\Csharp\palindrome\bin\Debug\net8.0\palindrome.runtimeconfig.json
+C:\Users\Lenovo\Downloads\Csharp\palindrome\bin\Debug\net8.0\palindrome.dll
+C:\Users\Lenovo\Downloads\Csharp\palindrome\bin\Debug\net8.0\palindrome.pdb
+C:\Users\Lenovo\Downloads\Csharp\palindrome\obj\Debug\net8.0\palindrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Downloads\Csharp\palindrome\obj\Debug\net8.0\palindrome.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Downloads\Csharp\palindrome\obj\Debug\net8.0\palindrome.AssemblyInfo.cs
+C:\Users\Lenovo\Downloads\Csharp\palindrome\obj\Debug\net8.0\palindrome.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\Csharp\palindrome\obj\Debug\net8.0\palindrome.dll
+C:\Users\Lenovo\Downloads\Csharp\palindrome\obj\Debug\net8.0\refint\palindrome.dll
+C:\Users\Lenovo\Downloads\Csharp\palindrome\obj\Debug\net8.0\palindrome.pdb
+C:\Users\Lenovo\Downloads\Csharp\palindrome\obj\Debug\net8.0\palindrome.genruntimeconfig.cache
+C:\Users\Lenovo\Downloads\Csharp\palindrome\obj\Debug\net8.0\ref\palindrome.dll
