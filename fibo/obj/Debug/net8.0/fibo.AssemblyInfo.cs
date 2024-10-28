@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("fibo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0413cde2994bb5afb1162ea7615d61421169791b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c3133562714cf1dfc7f79291c70f8cb3cd13d5db")]
 [assembly: System.Reflection.AssemblyProductAttribute("fibo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("fibo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

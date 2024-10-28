@@ -7,9 +7,11 @@ public class fibo
         int a = 0;
         int b = 1;
         int c = 0;
+
+        Console.WriteLine("Printing Fibonacci Sequence");
         for (int i = 0; i < n; i++)
         {
-            Console.WriteLine(a);
+            Console.Write(a+" ");
             c = a + b;
             a = b;
             b = c;
