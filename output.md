@@ -72,7 +72,16 @@ Enter the second number:
 Before swapping: num1 = 45 num2 = 2
 After swapping: num1 = 2 num2 = 45
 ```
-### Program 8
+### Program 8 - Print a Pascal Triangle
+```
+Enter the number of rows: 
+5
+    1 
+   1 1 
+  1 2 1 
+ 1 3 3 1 
+1 4 6 4 1 
+```
 
 ### Program 9
 
