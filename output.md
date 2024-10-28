@@ -89,7 +89,7 @@ Thread Name: Main Thread
 Currently Executing Thread: Main Thread
 ```
 
-[Code](TreadProg/Program.cs)
+[Code](ThreadProg/Program.cs)
 
 ### Program 10 - Find Square using Subroutines and Functions
 ```
