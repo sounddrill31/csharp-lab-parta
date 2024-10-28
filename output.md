@@ -53,3 +53,15 @@ PS C:\Users\Lenovo\Downloads\Csharp>  & 'c:\Users\Lenovo\.vscode\extensions\ms-d
 Enter the Number: 23
 Sum of Digits is: 5
 ```
+
+(switched to linux)
+
+### Program 6 - Reverse of a Number
+
+### Program 7
+
+### Program 8
+
+### Program 9
+
+### Program 10
