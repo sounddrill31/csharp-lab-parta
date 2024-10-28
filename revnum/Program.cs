@@ -12,6 +12,6 @@ public class revnum
             reverse = reverse + num % 10;
             num = num / 10;
         }
-        Console.WriteLine("Reverse of the number is"+reverse);
+        Console.WriteLine("Reverse of the number is "+reverse);
     }
 }

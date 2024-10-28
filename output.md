@@ -57,8 +57,13 @@ Sum of Digits is: 5
 (switched to linux)
 
 ### Program 6 - Reverse of a Number
+```
+Enter a number: 
+53432
+Reverse of the number is 23435
+```
 
-### Program 7
+### Program 7 - 
 
 ### Program 8
 
