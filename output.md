@@ -64,7 +64,14 @@ Reverse of the number is 23435
 ```
 
 ### Program 7 - Swap Two Numbers without 3rd Variable
-
+```
+Enter the first number: 
+45
+Enter the second number: 
+2
+Before swapping: num1 = 45 num2 = 2
+After swapping: num1 = 2 num2 = 45
+```
 ### Program 8
 
 ### Program 9
