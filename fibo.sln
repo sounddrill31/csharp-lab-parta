@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pascaltriangle", "pascaltri
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadProg", "ThreadProg\ThreadProg.csproj", "{118390F5-6C62-4C64-9861-43A854330917}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubSquare", "SubSquare\SubSquare.csproj", "{91E28EEE-DCEE-40E2-8D67-FBD7EEC1F79D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -66,5 +68,9 @@ Global
 		{118390F5-6C62-4C64-9861-43A854330917}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{118390F5-6C62-4C64-9861-43A854330917}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{118390F5-6C62-4C64-9861-43A854330917}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91E28EEE-DCEE-40E2-8D67-FBD7EEC1F79D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91E28EEE-DCEE-40E2-8D67-FBD7EEC1F79D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91E28EEE-DCEE-40E2-8D67-FBD7EEC1F79D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91E28EEE-DCEE-40E2-8D67-FBD7EEC1F79D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

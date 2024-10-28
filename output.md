@@ -89,4 +89,4 @@ Thread Name: Main Thread
 Currently Executing Thread: Main Thread
 ```
 
-### Program 10
+### Program 10 - Find Square using Subroutines and Functions
