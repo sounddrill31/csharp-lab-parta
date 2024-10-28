@@ -63,7 +63,7 @@ Enter a number:
 Reverse of the number is 23435
 ```
 
-### Program 7 - 
+### Program 7 - Swap Two Numbers without 3rd Variable
 
 ### Program 8
 
